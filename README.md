@@ -30,7 +30,7 @@ Email: ask@cyborgdeveloper.tech
 
 | Date (dd/mm/yyyy) | Event          | Slide Deck  | Language |
 |:-----------------:|----------------|-------------|:--------:|
-| | | | |
+| 31/01/2018 | [Campus Party Brasil](https://campuse.ro/events/campus-party-brasil-2018/talk/elimine-o-estresse-das-tarefas-repetitivas-do-seu-projeto-cpbr11/) | [Elimine o estresse das tarefas repetitivas do seu projeto](https://www.slideshare.net/rcmoutinho/elimine-o-estresse-das-tarefas-repetitivas-do-seu-projeto) | :brazil: |
 
 # Volunteer
 
