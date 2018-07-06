@@ -57,7 +57,7 @@ Selecionar versão desejada atribuindo a ela um nome.
 * Name: Maven 3.5.2
 * Install from Apache: 3.5.2
 
-Talvez esse passo não seja necessário utilizando o jenkins através do `.war` e já possindo uma instalação do Maven.
+Talvez esse passo não seja necessário se estiver utilizando o jenkins através do `.war` e também já possuir uma versão do Maven instalado.
 
 ### Configurando Servidor
 
