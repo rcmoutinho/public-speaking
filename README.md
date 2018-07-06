@@ -28,10 +28,11 @@ Email: ask@cyborgdeveloper.tech
 
 # Talks
 
-| Date (dd/mm/yyyy) | Event          | Slide Deck  | Language |
-|:-----------------:|----------------|-------------|:--------:|
-| 31/01/2018 | [Campus Party Brasil](https://campuse.ro/events/campus-party-brasil-2018/talk/elimine-o-estresse-das-tarefas-repetitivas-do-seu-projeto-cpbr11/) | [Elimine o estresse das tarefas repetitivas do seu projeto](https://www.slideshare.net/rcmoutinho/elimine-o-estresse-das-tarefas-repetitivas-do-seu-projeto) | :brazil: |
-| 15/12/2017 | [Career Week 2017](https://code4.life/career-week-2017) |-| :us: |
+| Date (dd/mm/yyyy) | Event          | Slide Deck  | Demo | Language |
+|:-----------------:|----------------|-------------|:----:|:--------:|
+| 23/06/2018 | [GDG Petrópolis](https://www.meetup.com/GDGPetropolis/events/251625105/) | [Sou preguiçoso! Eu automatizo meu dia-a-dia, sem ser um guru de infra](https://www.slideshare.net/rcmoutinho/sou-preguioso-eu-automatizo-meu-diaadia-sem-ser-um-guru-de-infra) | [java-deploy-one-click](https://github.com/rcmoutinho/public-speaking/tree/master/java-deploy-one-click) | :brazil: |
+| 31/01/2018 | [Campus Party Brasil](https://campuse.ro/events/campus-party-brasil-2018/talk/elimine-o-estresse-das-tarefas-repetitivas-do-seu-projeto-cpbr11/) | [Elimine o estresse das tarefas repetitivas do seu projeto](https://www.slideshare.net/rcmoutinho/elimine-o-estresse-das-tarefas-repetitivas-do-seu-projeto) |-| :brazil: |
+| 15/12/2017 | [Career Week 2017](https://code4.life/career-week-2017) |-|-| :us: |
 
 # Volunteer
 
