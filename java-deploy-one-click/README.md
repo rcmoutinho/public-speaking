@@ -40,11 +40,11 @@ Exemplo simples de um aplicativo Java web que utiliza [Apache Maven](https://mav
 
 * Checkout *(Source Code Management -> Git)*
   ```
-  git clone https://github.com/cyborgdeveloper/maven-web
+  https://github.com/cyborgdeveloper/maven-web
   ```
 * Build *(Build -> Invoke top-level Maven targets)*
   ```
-  mvn package
+  package
   ```
 
 Se não for necessária a configuração do Maven já será possível visualizar na opção *Workspace* todo o projeto e sua compilação.
