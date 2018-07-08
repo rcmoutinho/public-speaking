@@ -20,23 +20,28 @@ Considererando o arquivo de configuração padrão do Vagrant, o `Vagrantfile`, 
 vagrant up
 ```
 
-Acessar URL `http://192.168.33.10:8080/` antes e depois do processo para conseguir visualizar o Tomcat funcionando.
+Acesse a URL `http://192.168.33.10:8080/` antes e depois do processo para conseguir visualizar o Tomcat funcionando. Lembrando que o IP de acesso foi definido no arquivo `Vagrantfile` e a porta `8080` é a padrão do Tomcat.
 
 ## Servidor de Automação
 
-Baixar a versão desejada em [jenkins.io](https://jenkins.io/).
+Baixe a versão desejada em [jenkins.io](https://jenkins.io/).
+Segue abaixo o comando para iniciar o Jenkins através do pacote `.war` alterando a porta padrão para `8180`.
 
 ```
 java -jar jenkins-2.121.1.war --httpPort=8180
 ```
 
-Criar job (project): **maven-web-deploy**
+Realize o processo de instalação com todos os pacotes sugeridos, ou apenas selecionando os dois _plugins_ necessários para essa demo: `Git` and `Publish Over SSH`.
+
+Na tela inicial do Jenkins, crie um novo job (project) utilizando a opção _New Item_. Como sugestão de nome, **maven-web-deploy**, selecione a opção _Freestyle project_ iniciando a configuração da automação.
 
 ## Implantação
 
 ### Aplicativo Java
 
-Exemplo simples de um aplicativo Java web que utiliza [Apache Maven](https://maven.apache.org) para automatizar o processo de build.
+Para a demonstração, um exemplo simples de um aplicativo web Java que utiliza [Apache Maven](https://maven.apache.org) para automatizar o processo de build.
+
+Siga as sessões e opções assinaladas abaixo para configuração do _job_.
 
 * Checkout *(Source Code Management -> Git)*
   ```
@@ -47,21 +52,25 @@ Exemplo simples de um aplicativo Java web que utiliza [Apache Maven](https://mav
   package
   ```
 
-Se não for necessária a configuração do Maven já será possível visualizar na opção *Workspace* todo o projeto e sua compilação.
+Caso já tenha a instalação do Maven local, não será necessário configurar o Maven, já sendo possível visualizar na opção *Workspace* todo o projeto compilado.
 
 ### Configurando Maven
 
-Acessar: *Global Tool Configuration > Maven > Add Maven.*
+Obrigatório caso não tenha o Maven instalado localmente ou esteja utilizando [Docker](https://www.docker.com/) como instalação do Jenkins.
 
-Selecionar versão desejada atribuindo a ela um nome.
-* Name: Maven 3.5.2
-* Install from Apache: 3.5.2
+Acesse: *Global Tool Configuration > Maven > Add Maven.*
 
-Talvez esse passo não seja necessário se estiver utilizando o jenkins através do `.war` e também já possuir uma versão do Maven instalado.
+Selecione a versão desejada atribuindo a ela um nome.
+* Name: `Maven 3.5.2`
+* Install from Apache: `3.5.2`
+
+Depois desta configuração será possível selecionar as versões do Maven ao configurar o build do projeto Java.
 
 ### Configurando Servidor
 
-Acessar: *Configure System > Publish over SSH*
+Última configuração necessária, defina o acesso à máquina virtual, inicialmente criada na demo.
+
+Acesse: *Configure System > Publish over SSH*
 
 * Key
   ```
@@ -100,13 +109,14 @@ Acessar: *Configure System > Publish over SSH*
   * Username: `vagrant`
   * Remote Directory: `/vagrant`
 
-* *Test Configuration*
-  * Com a máquina virtual funcionando, essa ação deve gerar uma mensagem de sucesso
+Ao final desta configuração, clique no botão `Test Configuration` para se certificar que o acesso à máquina virtual está funcionando corretamente. Com tudo certo, uma mensagem de sucesso será mostrada.
 
 ### Realizando o Deploy
 
+Com todas as configurações gerais realizadas, volte ao _job_ criado inicialmente para configurar a cópia do projeto via SSH para a máquina virtual (que depois poderá ser o seu servidor de homologação ou produção).
+
 * *Build > Send files or execute commands over SSH*
-  * Selecionar *SSH Server* previamente configurado
+  * Selecione na opção *SSH Server* a configuração previamente feita
   * Source files: `target/maven-web.war`
   * Remove prefix: `target`
   * Remote directory: `deploy-$BUILD_NUMBER`  
@@ -120,11 +130,15 @@ Acessar: *Configure System > Publish over SSH*
     sudo service tomcat7 restart
     ```
 
-Antes de apertar o botão *Build Now*, pode conferir a URL final que ainda não funciona: http://192.168.33.10:8080/maven-web.
+Salve a configuração.
+
+Antes de apertar o botão *Build Now*, confira a URL final para perceber que nada funciona, ainda: http://192.168.33.10:8080/maven-web.
 
 ### Undeploy
 
-New Item > "maven-web-undeploy" > Copy from "maven-web-deploy".
+Para reverter o que foi feito, crie um novo _job_ e configure apenas um script de remoção via SSH, seguindo a mesma ideia do que foi feito no momento de deploy.
+
+Acesse: *New Item > "maven-web-undeploy"*.
 
 * *Build > Send files or execute commands over SSH*
   ```
