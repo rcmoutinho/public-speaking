@@ -4,7 +4,7 @@
 
 Real example using CTE (Common Table Expression) to decrease the runtime of a query drastically. Most of the structure was preserved to respect TOTVS' ERP (Enterprise Resource Planning) project format.
 
-The whole example will be emulated using **PostgreSQL**, my preferred database. But the real case was solved under **MySQL Server**. Considering that CTE is supported on most of the databases, you decide which flavor you want to choose.
+The whole example will be emulated using **PostgreSQL**. But the real case was solved under **MySQL Server**. Considering that CTE is supported on most of the databases, you decide which flavor you want to choose.
 
 ## Prerequisites
 
@@ -25,7 +25,7 @@ $ cd cte-example
 $ vagrant up
 ```
 
-That's it! Now you have a fully configured database with all the data you need to play with this use case. And if you want to understand more about how this automation was built, subscribe to a 3 emails course about software automation [here](https://cyborgdeveloper.tech/), **for FREE**. Learn how to use Vagrant to boost your local productivity.
+That's it! Now you have a fully configured database with all the data you need to play with this use case. And if you want to understand more about how this automation was built, subscribe to a 3 emails course about software automation [here](https://cyborgdeveloper.tech/), **for FREE**. Learn how to use Vagrant to boost your local development productivity.
 
 ## Time to play!
 
@@ -39,11 +39,11 @@ You can also connect to the database using a visual tool like **pgAdmin**. From 
 
 ### Queries
 
-There are multiple ways to execute the same task here so that you can test the performance of both queries. Choose the one that fits best for you.
+There are multiple ways to execute this query performance test. Choose the one that fits best for you.
 
 #### Terminal
 
-Avoid accessing the virtual machine executing the queries using the SSH command.
+To avoid accessing the virtual machine, execute the queries using the SSH command.
 
 ```
 vagrant ssh -c "psql -U postgres -d totvs_example -f /vagrant/queries/low-performance-query.sql"
@@ -76,7 +76,77 @@ If you prefer the visual tools, open the queries files and execute them. Otherwi
 
 # Aumente drasticamente a performance do seu banco de dados
 
-**TODO...**
+Exemplo real de utilização de CTE (Common Table Expression) para diminuir o tempo de execução da query drásticamente. Boa parte da estrutura foi preservada para respeitar o formato do projeto ERP (Enterprise Resource Planning) TOTVS.
+
+Todo o exemplo será simulado utilizando **PostgreSQL**. Mas o caso real foi solucionado utilizando **MySQL Server**. Considerando que CTE é suportado por boa parte dos banco de dados, você decide qual distribuição utilizar.
+
+## Pré-Requisitos
+
+Existem alguns pré-requisitos para executar a automação completa deste exemplo.
+
+- [Vagrant](https://www.vagrantup.com/)
+- [VirtualBox](https://www.virtualbox.org/)
+
+Todos os passos abordados aqui podem ser aplicados no seu projeto para aumentar sua produtividade.
+
+## Hora de executar!
+
+Para reproduzir este exemplo, `clone` o projeto e digite `vagrant up` no terminal.
+
+```
+$ clone cte-example
+$ cd cte-example
+$ vagrant up
+```
+
+É isso ai! Agora você tem um banco de dados totalmente configurado com todos os dados que você vai precisar para brincar com esse caso de uso. E se você quiser entender mais sobre como esta automação foi desenvolvida, registre-se no curso de 3 emails sobre automação de software [aqui](https://cyborgdeveloper.tech/), **é DE GRAÇA**. Aprenda como utilizar o Vagrant para turbinar sua produtividade no desenvolvimento local.
+
+## Hora de brincar!
+
+Para evitar acessar a máquina virtual (`vagrant ssh`) e depois acessar o banco de dados, digite o comando abaixo para ir diretamente para o banco de dados. *ATENÇÃO: isso só é possível devido a alteração do arquivo `pg_hba.conf` permitindo qualquer tipo de conexão. Essa configuração é **insegura** mas é aceitavel para o ambiente de desenvolvimento.
+
+```
+vagrant ssh -c "psql -U postgres -d totvs_example"
+```
+
+Você também pode se conectar ao banco de dados utilizando uma ferramenta gráfica com o **pgAdmin**. A partir da ferramenta, crie um servidor utilizando o IP `192.168.33.10` (previamente configurado no arquivo `Vagrantfile`) e também a porta padrão do PostgreSQL, `5432`. *ATENÇÃO: isso somente é possível devido a configuração realizada no arquivo `postgresql.conf` para escutar qualquer tipo de IP. De novo, essa configuração é **insegura** mas aceitavel para o ambiente de desenvolvimento.
+
+### Consultas
+
+Existem diversas maneiras de executar o teste de performance das consultas. Escolha a que for mais interessante para você.
+
+#### Terminal
+
+Para evitar acessar a máquina virtual, execute as consultas utilizando o comando SSH.
+
+```
+vagrant ssh -c "psql -U postgres -d totvs_example -f /vagrant/queries/low-performance-query.sql"
+vagrant ssh -c "psql -U postgres -d totvs_example -f /vagrant/queries/high-performance-query.sql"
+```
+
+Ou acesse a máquina virtual e execute as consultas a partir do terminal Ubuntu. Só precisa digitar `vagrant ssh` e você está dentro! Sim, é o mesmo comando utilizando anteriormente.
+
+```
+psql -U postgres -d totvs_example -f /vagrant/queries/low-performance-query.sql
+psql -U postgres -d totvs_example -f /vagrant/queries/high-performance-query.sql
+```
+
+Você pode consultar todos os arquivos do exemplo na pasta `/vagrant` (todos eles foram sincronizados com base na pasta raiz, onde está localizado o arquivo `Vagrantfile`).
+
+#### Banco de Dados PostgreSQL
+
+Se você prefere uma ferramenta visual, abra os arquivos das consultas e execute-os. Caso contrário, execute eles de dentro do banco de dado PostgreSQL utilizando os comandos abaixo:
+
+```
+\i /vagrant/queries/low-performance-query.sql 
+\i /vagrant/queries/high-performance-query.sql
+```
+
+## Documentação CTE
+
+- [PostgreSQL](https://www.postgresql.org/docs/9.1/static/queries-with.html) (the foundation for this example)
+- [SQL Server](https://dev.mysql.com/doc/refman/8.0/en/with.html)
+- ... (***TODO** outros bancos de dados suportados*)
 
 ## Sumário TOTVS
 
