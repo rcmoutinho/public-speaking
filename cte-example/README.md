@@ -76,7 +76,7 @@ If you prefer the visual tools, open the queries files and execute them. Otherwi
 
 # Aumente drasticamente a performance do seu banco de dados
 
-Exemplo real de utilização de CTE (Common Table Expression) para diminuir o tempo de execução da query drásticamente. Boa parte da estrutura foi preservada para respeitar o formato do projeto ERP (Enterprise Resource Planning) TOTVS.
+Exemplo real de utilização de CTE (Common Table Expression) para diminuir o tempo de execução da query drasticamente. Boa parte da estrutura foi preservada para respeitar o formato do projeto ERP (Enterprise Resource Planning) TOTVS.
 
 Todo o exemplo será simulado utilizando **PostgreSQL**. Mas o caso real foi solucionado utilizando **MySQL Server**. Considerando que CTE é suportado por boa parte dos banco de dados, você decide qual distribuição utilizar.
 
@@ -103,13 +103,13 @@ $ vagrant up
 
 ## Hora de brincar!
 
-Para evitar acessar a máquina virtual (`vagrant ssh`) e depois acessar o banco de dados, digite o comando abaixo para ir diretamente para o banco de dados. *ATENÇÃO: isso só é possível devido a alteração do arquivo `pg_hba.conf` permitindo qualquer tipo de conexão. Essa configuração é **insegura** mas é aceitavel para o ambiente de desenvolvimento.
+Para evitar acessar a máquina virtual (`vagrant ssh`) e depois acessar o banco de dados, digite o comando abaixo para ir diretamente para o banco de dados. *ATENÇÃO: isso só é possível devido a alteração do arquivo `pg_hba.conf` permitindo qualquer tipo de conexão. Essa configuração é **insegura** mas é aceitável para o ambiente de desenvolvimento.
 
 ```
 vagrant ssh -c "psql -U postgres -d totvs_example"
 ```
 
-Você também pode se conectar ao banco de dados utilizando uma ferramenta gráfica com o **pgAdmin**. A partir da ferramenta, crie um servidor utilizando o IP `192.168.33.10` (previamente configurado no arquivo `Vagrantfile`) e também a porta padrão do PostgreSQL, `5432`. *ATENÇÃO: isso somente é possível devido a configuração realizada no arquivo `postgresql.conf` para escutar qualquer tipo de IP. De novo, essa configuração é **insegura** mas aceitavel para o ambiente de desenvolvimento.
+Você também pode se conectar ao banco de dados utilizando uma ferramenta gráfica com o **pgAdmin**. A partir da ferramenta, crie um servidor utilizando o IP `192.168.33.10` (previamente configurado no arquivo `Vagrantfile`) e também a porta padrão do PostgreSQL, `5432`. *ATENÇÃO: isso somente é possível devido a configuração realizada no arquivo `postgresql.conf` para escutar qualquer tipo de IP. De novo, essa configuração é **insegura** mas aceitável para o ambiente de desenvolvimento.
 
 ### Consultas
 
@@ -144,7 +144,7 @@ Se você prefere uma ferramenta visual, abra os arquivos das consultas e execute
 
 ## Documentação CTE
 
-- [PostgreSQL](https://www.postgresql.org/docs/9.1/static/queries-with.html) (the foundation for this example)
+- [PostgreSQL](https://www.postgresql.org/docs/9.1/static/queries-with.html) (a base utilizada pare este exemplo)
 - [SQL Server](https://dev.mysql.com/doc/refman/8.0/en/with.html)
 - ... (***TODO** outros bancos de dados suportados*)
 
