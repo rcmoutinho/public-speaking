@@ -15,6 +15,9 @@ There are some prerequisites do execute the full automation of this example.
 
 All steps covered here can be applied to your project to increase your productivity.
 
+[![Provisioning the Environment](https://asciinema.org/a/194294.png)](https://asciinema.org/a/194294)
+*Provisioning the Environment*
+
 ## Time to run!
 
 To reproduce this example, `clone` this project and type `vagrant up` over the terminal.
@@ -40,6 +43,12 @@ You can also connect to the database using a visual tool like **pgAdmin**. From 
 ### Queries
 
 There are multiple ways to execute this query performance test. Choose the one that fits best for you.
+
+[![Low Performance Query](https://asciinema.org/a/194295.png)](https://asciinema.org/a/194295)
+*Low Performance Query*
+
+[![High Performance Query](https://asciinema.org/a/194296.png)](https://asciinema.org/a/194296)
+*High Performance Query*
 
 #### Terminal
 
@@ -89,6 +98,9 @@ Existem alguns pré-requisitos para executar a automação completa deste exempl
 
 Todos os passos abordados aqui podem ser aplicados no seu projeto para aumentar sua produtividade.
 
+[![Provisionando o Ambiente](https://asciinema.org/a/194294.png)](https://asciinema.org/a/194294)
+*Provisionando o Ambiente*
+
 ## Hora de executar!
 
 Para reproduzir este exemplo, `clone` o projeto e digite `vagrant up` no terminal.
@@ -114,6 +126,12 @@ Você também pode se conectar ao banco de dados utilizando uma ferramenta gráf
 ### Consultas
 
 Existem diversas maneiras de executar o teste de performance das consultas. Escolha a que for mais interessante para você.
+
+[![Consulta Baixa Performance](https://asciinema.org/a/194295.png)](https://asciinema.org/a/194295)
+*Consulta Baixa Performance*
+
+[![Consulta Alta Performance](https://asciinema.org/a/194296.png)](https://asciinema.org/a/194296)
+*Consulta Alta Performance*
 
 #### Terminal
 
