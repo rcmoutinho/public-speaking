@@ -1,4 +1,6 @@
+-- Comment this command if you don't want to see the performance, only the results
 EXPLAIN ANALYZE 
+
 WITH TABLE_PEDIDO AS ( 
   SELECT 
     SC5.C5_NUM     AS PED, 

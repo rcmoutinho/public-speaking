@@ -1,4 +1,6 @@
+-- Comment this command if you don't want to see the performance, only the results
 EXPLAIN ANALYZE 
+
 SELECT
 	SC5.C5_NUM 	AS PED, 
 	SC5.C5_VEND1 	AS REPRES,
