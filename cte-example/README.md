@@ -83,6 +83,10 @@ If you prefer the visual tools, open the queries files and execute them. Otherwi
 - [SQL Server](https://dev.mysql.com/doc/refman/8.0/en/with.html)
 - ... (***TODO** other supported databases*)
 
+## TOTVS Summary
+
+This would help you to understand all the crazy codes used by tables and columns on TOTVS' ERP but doesn't make sense to translate it. Check the Portuguese version [here](#sc5010---pedido-de-venda).
+
 # Aumente drasticamente a performance do seu banco de dados
 
 Exemplo real de utilização de CTE (Common Table Expression) para diminuir o tempo de execução da query drasticamente. Boa parte da estrutura foi preservada para respeitar o formato do projeto ERP (Enterprise Resource Planning) TOTVS.
