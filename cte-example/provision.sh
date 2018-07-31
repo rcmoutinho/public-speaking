@@ -43,6 +43,10 @@ psql -U postgres -c "DROP DATABASE IF EXISTS totvs_example;"
 psql -U postgres -c "CREATE DATABASE totvs_example WITH OWNER postgres;"
 psql -U postgres -c "REVOKE ALL ON DATABASE totvs_example from PUBLIC;"
 
-# provisioning use case database
+# provisioning the database from scratch (slower but customizable)
 psql -U postgres -d totvs_example -f /vagrant/database/totvs-example-schema.sql
-psql -U postgres -d totvs_example -f /vagrant/database/totvs-example-data.sql
+/vagrant/generate-db-fake-data.sh
+
+# HINTS: creating a backup and restoring the database
+# pg_dump totvs_example -U postgres -f /vagrant/database/totvs-example-fulldb.dump
+# psql totvs_example -U postgres -f /vagrant/database/totvs-example-fulldb.dump
