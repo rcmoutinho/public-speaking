@@ -45,7 +45,7 @@ psql -U postgres -c "REVOKE ALL ON DATABASE totvs_example from PUBLIC;"
 
 # provisioning the database from scratch (slower but customizable)
 psql -U postgres -d totvs_example -f /vagrant/database/totvs-example-schema.sql
-/vagrant/generate-db-fake-data.sh
+/vagrant/database/generate-fake-data.sh
 
 # HINTS: creating a backup and restoring the database
 # pg_dump totvs_example -U postgres -f /vagrant/database/totvs-example-fulldb.dump
