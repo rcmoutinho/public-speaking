@@ -225,7 +225,7 @@ _Obs. 3: Nas exclusões lógicas, ```''``` (branco) é um dado válido e ```'*'`
 * **C9_SEQUEN** - Sequência *(PK)*
 * **C9_PRODUTO** - Código Produto
 * **C9_NFISCAL** - Nota Fiscal
-* **C9_XLIST** - Lista (nem sei mais o que seria isso...)
+* **C9_XLIST** - Número da lista na qual os itens foram liberados para faturamento
 * **C9_LOCAL** - Estoque
 * **C9_BLCCRED** - Bloqueio Crédito
 * **D_E_L_E_T_** - Apagado (exclusão lógica)

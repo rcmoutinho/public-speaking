@@ -167,13 +167,13 @@ psql -U postgres -d totvs_example << EOF
       CASE AUTO_COD % 100 WHEN 1 THEN '' -- considerando que apenas 1% dos pedidos não tinham nota
                           ELSE 'NOT' || LPAD(AUTO_COD::text, 6, '0') 
         END AS NFISCAL,
-      CASE AUTO_COD % 10 WHEN 5 THEN 'HUM'
+      CASE AUTO_COD % 10 WHEN 5 THEN '000'
                          ELSE ''
         END AS XLIST,
       CASE AUTO_COD % 2 WHEN 1 THEN '05' 
                         ELSE '' 
         END AS LOCAL,
-      CASE AUTO_COD % 100 WHEN 99 THEN 'NT'
+      CASE AUTO_COD % 100 WHEN 99 THEN '01'
                           ELSE ''
         END AS BLCRED,
       '' AS D_E_L_E_T_
