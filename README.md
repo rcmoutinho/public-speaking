@@ -36,8 +36,8 @@ Email: ask@cyborgdeveloper.tech
 
 # Talks
 
-| Date (dd/mm/yyyy) | Event          | Slide Deck  | Demo | |
-|:-----------------:|----------------|-------------|:----:|:--------:|
+| Date<br>(dd/mm/yyyy) | Event          | Slide Deck  | Demo | |
+|:--------------------:|----------------|-------------|:----:|:--------:|
 | 25/10/2018 | [Oracle Code One - San Francisco](https://oracle.rainfocus.com/widget/oracle/oow18/catalogcodeone18?search=DEV6389) | [The One Skill Developers Need to Design Their Careers and Break the Career Plateau](https://static.rainfocus.com/oracle/oow18/sess/1532457929303001Y3nA/PF/the-one-skill-developers-need-to-design-their-careers-and-break-the-career-plateau_1541192145993001BpWG.pdf) | - | :us: |
 | 21/07/2018 | [The Developer's Conference - São Paulo](http://www.thedevelopersconference.com.br/tdc/2018/saopaulo/trilha-banco-de-dados) | [Aumente drasticamente a performance do seu banco usando consultas hierárquicas e recursivas](https://pt.slideshare.net/rcmoutinho/aumente-drasticamente-a-performance-do-seu-banco-usando-consultas-hierrquicas-e-recursivas) | [cte-example](https://github.com/rcmoutinho/public-speaking/tree/master/cte-example) | :brazil: |
 | 23/06/2018 | [GDG Petrópolis](https://www.meetup.com/GDGPetropolis/events/251625105/) | [Sou preguiçoso! Eu automatizo meu dia-a-dia, sem ser um guru de infra](https://www.slideshare.net/rcmoutinho/sou-preguioso-eu-automatizo-meu-diaadia-sem-ser-um-guru-de-infra) | [java-deploy-one-click](https://github.com/rcmoutinho/public-speaking/tree/master/java-deploy-one-click) | :brazil: |
@@ -46,8 +46,8 @@ Email: ask@cyborgdeveloper.tech
 
 # Volunteer
 
-| Date        | Event            | Role  |
-|:-----------:|------------------|:-----:|
+| Date<br>(dd/mm/yyyy) | Event            | Role  |
+|:--------------------:|------------------|:-----:|
 | 05-08/12/2018 | [The Developers Conference - Porto Alegre - Trilha Carreiras](http://www.thedevelopersconference.com.br/tdc/2018/portoalegre/trilha-carreiras-e-mentoria) | Coordinator |
 | 18/07/2018 | [The Developers Conference - São Paulo - Trilha Containers](http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-containers) | Volunteer |
 
@@ -61,14 +61,14 @@ Email: ask@cyborgdeveloper.tech
 
 # Videos
 
-| Date (mm/yyyy) | Title          | Event       | Language |
-|:--------------:|----------------|-------------|:--------:|
+| Date<br>(mm/yyyy) | Title          | Event       | Language |
+|:-----------------:|----------------|-------------|:--------:|
 | 12/2018 | [Trabalhe fora do País: Dicas e Oportunidades](https://youtu.be/KzDF9egz6kI) | [The Developer's Conference - Porto Alegre (Trilha Carreiras)](http://www.thedevelopersconference.com.br/tdc/2018/index.html#portoalegre) | :us: |
 
 ## :us: Series about Performance and Software Automation ([YouTube Playlist](https://www.youtube.com/playlist?list=PLUTDqVlfiSxY1drbqemJPfNKEQ5ALCQw9))
 
-| Date (mm/yyyy) | Title          | Special Guest      |
-|:--------------:|----------------|--------------------|
+| Date<br>(mm/yyyy) | Title          | Special Guest      |
+|:-----------------:|----------------|--------------------|
 | 12/2018 | [Pipelines using Jenkins, Docker, and OpenShift](https://youtu.be/QUy_bWIKXaQ) | [Jorge Hidalgo](https://twitter.com/_deors) |
 | 11/2018 | [CI/CD Behind the Istio Project](https://youtu.be/Q5R7UeUaDIg) | [Tiago Vieira](https://twitter.com/tiagovieira) |
 | 11/2018 | [Java, Jenkins, Nexus, CI/CD and more](https://youtu.be/fRXxo2eAEAY) | [Jeanne Boyarsky](https://twitter.com/jeanneboyarsky) |
