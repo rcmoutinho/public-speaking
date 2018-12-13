@@ -22,6 +22,14 @@ Os eventos estão organizados do mais antigo para o mais recente.
 Twitter: [@rcmoutinho](https://twitter.com/rcmoutinho)  
 Email: ask@cyborgdeveloper.tech
 
+# My Social Networks
+
+[![logo](https://cdn3.iconfinder.com/data/icons/social-circle/512/social_8-48.png)](http://www.twitter.com/rcmoutinho)
+[![logo](https://cdn3.iconfinder.com/data/icons/social-circle/512/social_7-48.png)](http://www.linkedin.com/in/rcmoutinho)
+[![logo](https://cdn3.iconfinder.com/data/icons/social-circle/512/647397-youtube-48.png)](https://www.youtube.com/c/rodrigomoutinho)
+[![logo](https://cdn3.iconfinder.com/data/icons/social-circle/512/social_3-48.png)](https://www.facebook.com/rcmoutinho)
+[![logo](https://cdn0.iconfinder.com/data/icons/social-circle/612/slideshare-48.png)](https://www.slideshare.net/rcmoutinho)
+
 ---
 
 [Talks](#talks) | [Volunteer](#volunteer) | [Initiatives](#initiatives)
