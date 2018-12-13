@@ -32,7 +32,7 @@ Email: ask@cyborgdeveloper.tech
 
 ---
 
-[Talks](#talks) | [Volunteer](#volunteer) | [Initiatives](#initiatives)
+[Talks](#talks) | [Volunteer](#volunteer) | [Initiatives](#initiatives) | [Videos](#videos)
 
 # Talks
 
@@ -58,3 +58,17 @@ Email: ask@cyborgdeveloper.tech
 | [Personal Blog](https://cyborgdeveloper.tech/) | Software Automation Posts | :us: |
 | [DZone Posts](https://dzone.com/users/2946317/rcmoutiho.html) | Software Automation Posts | :us: |
 | [Medium Posts](https://medium.com/@rcmoutinho) | Artigos sobre Automação de Software | :brazil: |
+
+# Videos
+
+| Date (mm/yyyy) | Title          | Event       | Language |
+|:--------------:|----------------|-------------|:--------:|
+| 12/2018 | [Trabalhe fora do País: Dicas e Oportunidades](https://youtu.be/KzDF9egz6kI) | [The Developer's Conference - Porto Alegre (Trilha Carreiras)](http://www.thedevelopersconference.com.br/tdc/2018/index.html#portoalegre) | :us: |
+
+## :us: Series about Performance and Software Automation ([YouTube Playlist](https://www.youtube.com/playlist?list=PLUTDqVlfiSxY1drbqemJPfNKEQ5ALCQw9))
+
+| Date (mm/yyyy) | Title          | Special Guest      |
+|:--------------:|----------------|--------------------|
+| 12/2018 | [Pipelines using Jenkins, Docker, and OpenShift](https://youtu.be/QUy_bWIKXaQ) | [Jorge Hidalgo](https://twitter.com/_deors) |
+| 11/2018 | [CI/CD Behind the Istio Project](https://youtu.be/Q5R7UeUaDIg) | [Tiago Vieira](https://twitter.com/tiagovieira) |
+| 11/2018 | [Java, Jenkins, Nexus, CI/CD and more](https://youtu.be/fRXxo2eAEAY) | [Jeanne Boyarsky](https://twitter.com/jeanneboyarsky) |
