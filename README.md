@@ -40,6 +40,7 @@ Email: ask@cyborgdeveloper.tech
 
 | Date        | Event            | Role  |
 |:-----------:|------------------|:-----:|
+| 05-08/12/2018 | [The Developers Conference - Porto Alegre - Trilha Carreiras](http://www.thedevelopersconference.com.br/tdc/2018/portoalegre/trilha-carreiras-e-mentoria) | Coordinator |
 | 18/07/2018 | [The Developers Conference - São Paulo - Trilha Containers](http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-containers) | Volunteer |
 
 # Initiatives
