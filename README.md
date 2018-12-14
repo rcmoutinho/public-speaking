@@ -32,7 +32,7 @@ Email: ask@cyborgdeveloper.tech
 
 ---
 
-[Talks](#talks) | [Volunteer](#volunteer) | [Initiatives](#initiatives) | [Videos](#videos)
+[Talks](#talks) | [Volunteer](#volunteer) | [Initiatives](#initiatives) | [Videos](#videos) | [Open Source](#open-source)
 
 # Talks
 
@@ -72,3 +72,10 @@ Email: ask@cyborgdeveloper.tech
 | 12/2018 | [Pipelines using Jenkins, Docker, and OpenShift](https://youtu.be/QUy_bWIKXaQ) | [Jorge Hidalgo](https://twitter.com/_deors) |
 | 11/2018 | [CI/CD Behind the Istio Project](https://youtu.be/Q5R7UeUaDIg) | [Tiago Vieira](https://twitter.com/tiagovieira) |
 | 11/2018 | [Java, Jenkins, Nexus, CI/CD and more](https://youtu.be/fRXxo2eAEAY) | [Jeanne Boyarsky](https://twitter.com/jeanneboyarsky) |
+
+# Open Source
+
+| Project | Repository | Help |
+|---------|------------|------|
+| [Jenkins X](https://jenkins-x.io) | [jx](https://github.com/jenkins-x/jx) | Documentation |
+| [Jenkins X](https://jenkins-x.io) | [jx-docs](https://github.com/jenkins-x/jx-docs) | Documentation |
