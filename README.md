@@ -69,6 +69,7 @@ Email: ask@cyborgdeveloper.tech
 
 | Date<br>(mm/yyyy) | Title          | Special Guest      |
 |:-----------------:|----------------|--------------------|
+| 01/2019 | [Automated Pipelines and Containers](https://youtu.be/_hMlSHTXcLw) | [Elder Moraes](https://twitter.com/elderjava) |
 | 12/2018 | [Pipelines using Jenkins, Docker, and OpenShift](https://youtu.be/QUy_bWIKXaQ) | [Jorge Hidalgo](https://twitter.com/_deors) |
 | 11/2018 | [CI/CD Behind the Istio Project](https://youtu.be/Q5R7UeUaDIg) | [Tiago Vieira](https://twitter.com/tiagovieira) |
 | 11/2018 | [Java, Jenkins, Nexus, CI/CD and more](https://youtu.be/fRXxo2eAEAY) | [Jeanne Boyarsky](https://twitter.com/jeanneboyarsky) |
