@@ -32,7 +32,7 @@ Email: ask@cyborgdeveloper.tech
 
 ---
 
-[Talks](#talks) | [Volunteer](#volunteer) | [Initiatives](#initiatives) | [Videos](#videos) | [Open Source](#open-source)
+[Talks](#talks) | [Volunteer](#volunteer) | [Initiatives](#initiatives) | [Videos](#videos) | [Open Source](#open-source) | [Mini Bio](#mini-bio)
 
 # Talks
 
@@ -80,3 +80,25 @@ Email: ask@cyborgdeveloper.tech
 |---------|------------|------|
 | [Jenkins X](https://jenkins-x.io) | [jx](https://github.com/jenkins-x/jx) | Documentation |
 | [Jenkins X](https://jenkins-x.io) | [jx-docs](https://github.com/jenkins-x/jx-docs) | Documentation |
+
+# Mini Bio
+
+## Links
+
+* [Twitter - @rcmoutinho](http://www.twitter.com/rcmoutinho)
+* [Linkedin](http://www.linkedin.com/in/rcmoutinho)
+* [Site - cyborgdeveloper.tech](https://cyborgdeveloper.tech/)
+
+## Português
+
+Ajudando desenvolvedores Java em pequenas equipes a automatizar a entrega de projetos para que eles eliminem o stress no projeto e reduzam a dependência em um único desenvolvedor. Criador da iniciativa Cyborg Developer.
+
+## English
+
+Helping Java developers working on small teams to automate project delivery so they can work on stress-free projects that don’t depend on "hero" developers! Creator of the Cyborg Developer Initiative.
+
+## Photos
+
+1. [Mais Utilizada / Most Used](https://cyborgdeveloper.tech/rcmoutinho2) :metal:
+2. [Alta Qualidade / High Quality](https://cyborgdeveloper.tech/rcmoutinho3) :sunglasses:
+3. [Última Chance / Last Chance](https://cyborgdeveloper.tech/rcmoutinho1) :sweat_smile:
