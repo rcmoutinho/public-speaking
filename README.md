@@ -98,8 +98,10 @@ Ajudando desenvolvedores Java em pequenas equipes a automatizar a entrega de pro
 
 Helping Java developers working on small teams to automate project delivery so they can work on stress-free projects that don’t depend on "hero" developers! Creator of the Cyborg Developer Initiative.
 
-## Photos
+## Photos / Images
 
 1. [Mais Utilizada / Most Used](https://cyborgdeveloper.tech/rcmoutinho2) :metal:
 2. [Alta Qualidade / High Quality](https://cyborgdeveloper.tech/rcmoutinho3) :sunglasses:
 3. [Última Chance / Last Chance](https://cyborgdeveloper.tech/rcmoutinho1) :sweat_smile:
+4. [Cyborg Developer Logo (PNG)](https://cyborgdeveloper.tech/cyborg-developer)
+4. [Cyborg Developer Icon (PNG)](https://cyborgdeveloper.tech/cyborg-developer-icon)
