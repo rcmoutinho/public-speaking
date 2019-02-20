@@ -59,6 +59,7 @@ Email: ask@cyborgdeveloper.tech
 | [Personal Blog](https://cyborgdeveloper.tech/) | Software Automation Posts | :us: |
 | [DZone Posts](https://dzone.com/users/2946317/rcmoutiho.html) | Software Automation Posts | :us: |
 | [Medium Posts](https://medium.com/@rcmoutinho) | Artigos sobre Automação de Software | :brazil: |
+| [Facebook Page](https://www.facebook.com/cyborgdeveloper) | Articles about Software Automation and Java | :us: |
 
 # Videos
 
