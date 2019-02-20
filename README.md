@@ -2,22 +2,18 @@
 
 The objective of this repo is to consolidate in a single place all my participation at conferences, meetups, community activities and events in general.
 
-The events are organized in reverse chronological order.
-
 *PS.: This is a great idea from a friend of mine, Elias Nogueira (I copied his idea [here](https://github.com/eliasnogueira/public-speaking))*
 
 # :brazil: Calendário de eventos, iniciativas e atividades
 
 O objetivo deste repositório é consolidar em um único lugar todas as minhas participações em conferências, meetups, atividades em comunidades e eventos em geral.
 
-Os eventos estão organizados do mais antigo para o mais recente.
-
 *PS.: Essa é uma grande ideia de um amigo meu, Elias Nogueira (eu copiei a ideia dele [aqui](https://github.com/eliasnogueira/public-speaking))*
 
 # Questions?
 
-* :us: What is your biggest challenge in starting with automation?
-* :brazil: Qual seu maior desafio ao começar com automação?
+* :us: **Regarding software automation, what is your biggest challenge, desire or frustration today?** Be as specific as possible. Send your questions via Twitter (message) or via email.
+* :brazil: **Com relação à automação de software, qual é seu maior desafio, desejo ou frustração hoje?** Seja o mais específico possível. Envie suas dúvidas via mensagem no twitter ou via email.
 
 Twitter: [@rcmoutinho](https://twitter.com/rcmoutinho)  
 Email: ask@cyborgdeveloper.tech
@@ -32,11 +28,11 @@ Email: ask@cyborgdeveloper.tech
 
 ---
 
-[Talks](#talks) | [Volunteer](#volunteer) | [Initiatives](#initiatives) | [Videos](#videos) | [Open Source](#open-source) | [Mini Bio](#mini-bio)
+[Talks](#talks) | [Volunteer](#volunteer) | [Initiatives](#initiatives) | [Videos](#videos) | [Open Source](#open-source) | [Certifications](#certifications) | [Mini Bio](#mini-bio)
 
 # Talks
 
-| Date<br>(dd/mm/yyyy) | Event          | Slide Deck  | Demo | |
+| Date<br>(dd/mm/yyyy) | Event          | Slide Deck  | Demo | Lang. |
 |:--------------------:|----------------|-------------|:----:|:--------:|
 | 25/04/2019 (coming soon) | [The Developer's Conference - Florianópolis](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilha-devtest) | 2 Ferramentas para Entregar Código 2x Mais Rápido (Ainda HOJE!) | - | :brazil: |
 | 13/02/2019 | [Campus Party Brasil](https://campuse.ro/events/campus-party-brasil-2019/talk/performance-e-produtividade-2-habilidades-para-transformar-seu-relacionamento-com-banco-de-dados-cpbr12/) | [Performance e Produtividade: 2 Habilidades para Transformar seu Relacionamento com Banco de Dados](https://www.slideshare.net/rcmoutinho/performance-e-produtividade-2-habilidades-para-transformar-seu-relacionamento-com-banco-de-dados) | [cte-example](https://github.com/rcmoutinho/public-speaking/tree/master/cte-example) | :brazil: |
