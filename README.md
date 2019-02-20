@@ -38,6 +38,8 @@ Email: ask@cyborgdeveloper.tech
 
 | Date<br>(dd/mm/yyyy) | Event          | Slide Deck  | Demo | |
 |:--------------------:|----------------|-------------|:----:|:--------:|
+| 25/04/2019 (coming soon) | [The Developer's Conference - Florianópolis](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilha-devtest) | 2 Ferramentas para Entregar Código 2x Mais Rápido (Ainda HOJE!) | - | :brazil: |
+| 13/02/2019 | [Campus Party Brasil](https://campuse.ro/events/campus-party-brasil-2019/talk/performance-e-produtividade-2-habilidades-para-transformar-seu-relacionamento-com-banco-de-dados-cpbr12/) | [Performance e Produtividade: 2 Habilidades para Transformar seu Relacionamento com Banco de Dados](https://www.slideshare.net/rcmoutinho/performance-e-produtividade-2-habilidades-para-transformar-seu-relacionamento-com-banco-de-dados) | [cte-example](https://github.com/rcmoutinho/public-speaking/tree/master/cte-example) | :brazil: |
 | 26/01/2019 | [GDG Petrópolis](https://www.meetup.com/GDGPetropolis/events/258049341) | [3 Passos Para a Carreira dos Seus Sonhos](https://www.slideshare.net/rcmoutinho/3-passos-para-a-carreira-dos-seus-sonhos) | - | :brazil: |
 | 25/10/2018 | [Oracle Code One - San Francisco](https://oracle.rainfocus.com/widget/oracle/oow18/catalogcodeone18?search=DEV6389) | [The One Skill Developers Need to Design Their Careers and Break the Career Plateau](https://static.rainfocus.com/oracle/oow18/sess/1532457929303001Y3nA/PF/the-one-skill-developers-need-to-design-their-careers-and-break-the-career-plateau_1541192145993001BpWG.pdf) | - | :us: |
 | 21/07/2018 | [The Developer's Conference - São Paulo](http://www.thedevelopersconference.com.br/tdc/2018/saopaulo/trilha-banco-de-dados) | [Aumente drasticamente a performance do seu banco usando consultas hierárquicas e recursivas](https://pt.slideshare.net/rcmoutinho/aumente-drasticamente-a-performance-do-seu-banco-usando-consultas-hierrquicas-e-recursivas) | [cte-example](https://github.com/rcmoutinho/public-speaking/tree/master/cte-example) | :brazil: |
@@ -49,8 +51,10 @@ Email: ask@cyborgdeveloper.tech
 
 | Date<br>(dd/mm/yyyy) | Event            | Role  |
 |:--------------------:|------------------|:-----:|
-| 05-08/12/2018 | [The Developers Conference - Porto Alegre - Trilha Carreiras](http://www.thedevelopersconference.com.br/tdc/2018/portoalegre/trilha-carreiras-e-mentoria) | Coordinator |
-| 18/07/2018 | [The Developers Conference - São Paulo - Trilha Containers](http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-containers) | Volunteer |
+| 23-27/04/2019 | [The Developer's Conference - Florianópolis - Trilha Carreiras](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilha-carreiras-e-mentoria) | Coordinator |
+| 12-17/02/2019 | [Campus Party Brasil 12 - Palco Dev League (Academia Developers)](http://www.thedevelopersconference.com.br/tdc/2018/portoalegre/trilha-carreiras-e-mentoria) | Curator |
+| 05-08/12/2018 | [The Developer's Conference - Porto Alegre - Trilha Carreiras](http://www.thedevelopersconference.com.br/tdc/2018/portoalegre/trilha-carreiras-e-mentoria) | Coordinator |
+| 18/07/2018 | [The Developer's Conference - São Paulo - Trilha Containers](http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-containers) | Volunteer |
 
 # Initiatives
 
