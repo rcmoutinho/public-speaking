@@ -99,11 +99,11 @@ Email: ask@cyborgdeveloper.tech
 
 ## Português
 
-Ajudando desenvolvedores Java em pequenas equipes a automatizar a entrega de projetos para que eles eliminem o stress no projeto e reduzam a dependência em um único desenvolvedor. Criador da iniciativa Cyborg Developer.
+Desenvolvedores estão cansados de trabalhar em projetos estressantes, virando noites repetindo tarefas manuais... Por isso, Rodrigo, que é especialista Java e entusiasta DevOps, dedica sua carreira para ajudar desenvolvedores como você a automatizar a entrega do projeto sem precisar perder fins de semana ou depender de uma única pessoa no time (o herói do time). Palestrante e coordenador em eventos como Campus Party, The Developer's Conference e Oracle CodeOne, Rodrigo compartilha dicas de DevOps no projeto cyborgdeveloper.tech.
 
 ## English
 
-Helping Java developers working on small teams to automate project delivery so they can work on stress-free projects that don’t depend on "hero" developers! Creator of the Cyborg Developer Initiative.
+Developers are tired of stressful projects, working overnight, lots of repetitive manual tasks... That's why Rodrigo, a Java DevOps specialist, devotes his career to help developers to automate project delivery and avoid missing weekends or having to become a "hero" to save the day... Speaker and coordinator of events like Campus Party, The Developer's Conference and Oracle CodeOne, Rodrigo is the author of cyborgdeveloper.tech, where he shares his best DevOps tips.
 
 ## Photos / Images
 
