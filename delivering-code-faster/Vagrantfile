@@ -1,0 +1,32 @@
+Vagrant.configure("2") do |config|
+
+  # Official Operating System from Hashicorp (Ubuntu 12.04 LTS)
+  config.vm.box = "hashicorp/precise64"
+
+  # IP to access the virtual machine
+  config.vm.network "private_network", ip: "192.168.33.10"
+
+  # Ensure the default folder sync but only from host to guest
+  config.vm.synced_folder ".", "/vagrant", type: "rsync"
+
+  # Default VM configuration (VirtualBox as the provider)
+  config.vm.provider :virtualbox do |vb|
+    vb.memory = 1536
+    vb.cpus = 2
+  end
+
+  # Configure an environment that uses Java 6
+  config.vm.define "java6" do |j|
+    j.vm.provision "shell", path: "scripts/provision-java6-env.sh"
+  end
+  
+  # Configure a simple database environment
+  config.vm.define "db-world" do |db|
+    db.vm.provision "shell", path: "scripts/provision-database.sh"
+  end
+  
+  # Configure an idempotent database environment
+  config.vm.define "db-pagila" do |db|
+    db.vm.provision "shell", path: "scripts/provision-database-idempotent.sh"
+  end
+end

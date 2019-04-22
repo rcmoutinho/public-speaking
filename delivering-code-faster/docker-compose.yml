@@ -1,0 +1,26 @@
+version: '3'
+
+services: 
+  pg-world:
+    build:
+      context: .
+      args:
+        - SCRIPT=scripts/pg-world-1.0.sh
+    volumes:
+      - pg-world-data:/var/lib/postgresql/data
+    ports: 
+      - "5432:5432"
+  
+  pg-pagila:
+    build:
+      context: .
+      args:
+        - SCRIPT=scripts/pg-pagila.sh
+    volumes:
+      - pg-pagila-data:/var/lib/postgresql/data
+    ports: 
+      - "5433:5432" # different port to avoid conflicts
+
+volumes:
+  pg-world-data:
+  pg-pagila-data:
