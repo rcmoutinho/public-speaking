@@ -65,12 +65,12 @@ Email: ask@cyborgdeveloper.tech
 
 # Videos
 
-| Date<br>(mm/yyyy) | Title          | Event       | Language |
-|:-----------------:|----------------|-------------|:--------:|
-| 04/2019 | [Oracle Groundbreakers Live](https://www.pscp.tv/w/1BdGYApQmEvGX?t=6) | | :brazil: |
-| 04/2019 | [Trabalhar fora do país: tudo que você queria saber](https://youtu.be/0hL2pqXdr3g) | [The Developer's Conference - Florianópolis](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/) | :brazil: |
-| 12/2018 | [Oracle Developers LA](https://twitter.com/OracleDevsLA/status/1071449335659933696) | | :brazil: |
-| 12/2018 | [Trabalhe fora do País: Dicas e Oportunidades](https://youtu.be/KzDF9egz6kI) | [The Developer's Conference - Porto Alegre (Trilha Carreiras)](http://www.thedevelopersconference.com.br/tdc/2018/portoalegre/trilhas) | :us: |
+| Date<br>(mm/yyyy) | Title          | Language |
+|:-----------------:|----------------|:--------:|
+| 04/2019 | [Oracle Groundbreakers Live](https://www.pscp.tv/w/1BdGYApQmEvGX?t=6) | :brazil: |
+| 04/2019 | [Trabalhar fora do país: tudo que você queria saber](https://youtu.be/0hL2pqXdr3g) | :brazil: |
+| 12/2018 | [Oracle Developers LA](https://twitter.com/OracleDevsLA/status/1071449335659933696) | :brazil: |
+| 12/2018 | [Trabalhe fora do País: Dicas e Oportunidades](https://youtu.be/KzDF9egz6kI) | :us: |
 
 ## :us: Series about Performance and Software Automation ([YouTube Playlist](https://www.youtube.com/playlist?list=PLUTDqVlfiSxY1drbqemJPfNKEQ5ALCQw9))
 
