@@ -48,6 +48,7 @@ Email: ask@cyborgdeveloper.tech
 
 | Date<br>(dd/mm/yyyy) | Event            | Role  |
 |:--------------------:|------------------|:-----:|
+| 13-15/06/2019 | [The Developer's Conference - Belo Horizonte - Carreiras](http://www.thedevelopersconference.com.br/tdc/2019/belohorizonte/trilhas) | Area Coordinator |
 | 23-27/04/2019 | [The Developer's Conference - Florianópolis - Trilha Carreiras](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilha-carreiras-e-mentoria) | Coordinator |
 | 12-17/02/2019 | [Campus Party Brasil 12 - Palco Dev League (Academia Developers)](http://www.thedevelopersconference.com.br/tdc/2018/portoalegre/trilha-carreiras-e-mentoria) | Curator |
 | 05-08/12/2018 | [The Developer's Conference - Porto Alegre - Trilha Carreiras](http://www.thedevelopersconference.com.br/tdc/2018/portoalegre/trilha-carreiras-e-mentoria) | Coordinator |
