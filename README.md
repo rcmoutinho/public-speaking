@@ -110,7 +110,7 @@ Developers are tired of stressful projects, working overnight, lots of repetitiv
 ## Photos / Images
 
 1. [Mais Utilizada / Most Used](https://cyborgdeveloper.tech/rcmoutinho2) :metal:
-2. [Alta Qualidade / High Quality](https://cyborgdeveloper.tech/rcmoutinho3) :sunglasses:
+2. [Alta Qualidade / High Quality](https://cyborgdeveloper.tech/rcmoutinho3) or [[2]](https://cyborgdeveloper.tech/rcmoutinho4) or [[3]](https://cyborgdeveloper.tech/rcmoutinho5) :sunglasses:
 3. [Última Chance / Last Chance](https://cyborgdeveloper.tech/rcmoutinho1) :sweat_smile:
 4. [Cyborg Developer Logo (PNG)](https://cyborgdeveloper.tech/cyborg-developer)
 4. [Cyborg Developer Icon (PNG)](https://cyborgdeveloper.tech/cyborg-developer-icon)
