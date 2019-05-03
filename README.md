@@ -29,7 +29,7 @@ Email: ask@cyborgdeveloper.tech
 
 ---
 
-[Talks](#talks) | [Volunteer](#volunteer) | [Initiatives](#initiatives) | [Videos](#videos) | [Open Source](#open-source) | [Certifications](#certifications) | [Mini Bio](#mini-bio)
+[Talks](#talks) | [Volunteer](#volunteer) | [Initiatives](#initiatives) | [Videos](#videos) | [Open Source](#open-source) | [Certifications](#certifications) | [Awards](#awards) | [Mini Bio](#mini-bio)
 
 # Talks
 
@@ -93,6 +93,12 @@ Email: ask@cyborgdeveloper.tech
 | Date<br>(mm/yyyy) | Name |
 |:-----------------:|------|
 | 10/2011 |  Oracle Certified Professional, Java SE 6 Programmer |
+
+# Awards
+
+| Date | Award | Event |
+|:----:|-------|-------|
+| 2019 | [TDC Rockstar](http://www.thedevelopersconference.com.br/rockstars) | [The Developer's Conference](http://www.thedevelopersconference.com.br) |
 
 # Mini Bio
 
