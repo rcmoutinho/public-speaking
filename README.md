@@ -33,9 +33,9 @@ Email: ask@cyborgdeveloper.tech
 
 # Talks
 
-| Date<br>(dd/mm/yyyy) | Event          | Slide Deck  | Demo | Lang. |
+| Date<br>(dd/mm/yyyy) | Event          | Slide Deck  | Demo | Lang.    |
 |:--------------------:|----------------|-------------|:----:|:--------:|
-| 25/04/2019 (coming soon) | [The Developer's Conference - Florianópolis](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilha-devtest) | [2 Ferramentas para Entregar Código 2x Mais Rápido (Ainda HOJE!)](https://www.slideshare.net/rcmoutinho/2-ferramentas-para-entregar-cdigo-2x-mais-rpido-ainda-hoje) | [delivering-code-faster](https://github.com/rcmoutinho/public-speaking/tree/master/delivering-code-faster) | :brazil: |
+| 25/04/2019 | [The Developer's Conference - Florianópolis](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilha-devtest) | [2 Ferramentas para Entregar Código 2x Mais Rápido (Ainda HOJE!)](https://www.slideshare.net/rcmoutinho/2-ferramentas-para-entregar-cdigo-2x-mais-rpido-ainda-hoje) | [delivering-code-faster](https://github.com/rcmoutinho/public-speaking/tree/master/delivering-code-faster) | :brazil: |
 | 13/02/2019 | [Campus Party Brasil](https://campuse.ro/events/campus-party-brasil-2019/talk/performance-e-produtividade-2-habilidades-para-transformar-seu-relacionamento-com-banco-de-dados-cpbr12/) | [Performance e Produtividade: 2 Habilidades para Transformar seu Relacionamento com Banco de Dados](https://www.slideshare.net/rcmoutinho/performance-e-produtividade-2-habilidades-para-transformar-seu-relacionamento-com-banco-de-dados) | [cte-example](https://github.com/rcmoutinho/public-speaking/tree/master/cte-example) | :brazil: |
 | 26/01/2019 | [GDG Petrópolis](https://www.meetup.com/GDGPetropolis/events/258049341) | [3 Passos Para a Carreira dos Seus Sonhos](https://www.slideshare.net/rcmoutinho/3-passos-para-a-carreira-dos-seus-sonhos) | - | :brazil: |
 | 25/10/2018 | [Oracle Code One - San Francisco](https://oracle.rainfocus.com/widget/oracle/oow18/catalogcodeone18?search=DEV6389) | [The One Skill Developers Need to Design Their Careers and Break the Career Plateau](https://static.rainfocus.com/oracle/oow18/sess/1532457929303001Y3nA/PF/the-one-skill-developers-need-to-design-their-careers-and-break-the-career-plateau_1541192145993001BpWG.pdf) | - | :us: |
