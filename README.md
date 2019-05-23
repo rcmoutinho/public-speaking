@@ -83,10 +83,20 @@ Email: ask@cyborgdeveloper.tech
 
 # Open Source
 
-| Project | Repository | Help |
-|---------|------------|------|
-| [Jenkins X](https://jenkins-x.io) | [jx](https://github.com/jenkins-x/jx) | Documentation |
-| [Jenkins X](https://jenkins-x.io) | [jx-docs](https://github.com/jenkins-x/jx-docs) | Documentation |
+| Project | Repository | Contribution | Language |
+|---------|------------|--------------|:--------:|
+| eBook with Asciidoctor | [ebook-with-asciidoctor](https://github.com/rcmoutinho/ebook-with-asciidoctor) | Creator | :us: |
+| Java to Html | [javatohtml](https://github.com/rcmoutinho/javatohtml) | Creator | :us: |
+| [Jenkins X](https://jenkins-x.io) | [jx](https://github.com/jenkins-x/jx) | Documentation | :us: |
+| [Jenkins X](https://jenkins-x.io) | [jx-docs](https://github.com/jenkins-x/jx-docs) | Documentation | :us: |
+
+## GitHub Organization
+
+| Name | Role | Language |
+|------|------|:--------:|
+| [Cyborg Developer](https://github.com/cyborgdeveloper) | Creator | :us: |
+| [Jornada DevOps](https://github.com/jornada-devops) | Co-leader, Co-author | :brazil: |
+| [ToolsCloud](https://github.com/toolscloud) | Contributor | :us: |
 
 # Certifications
 
