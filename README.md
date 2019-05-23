@@ -90,9 +90,9 @@ Email: ask@cyborgdeveloper.tech
 
 # Certifications
 
-| Date<br>(mm/yyyy) | Name |
-|:-----------------:|------|
-| 10/2011 |  Oracle Certified Professional, Java SE 6 Programmer |
+| Date | Name |
+|------|------|
+| November, 2011 |  Oracle Certified Professional, Java SE 6 Programmer |
 
 # Awards
 
