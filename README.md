@@ -48,11 +48,12 @@ Email: ask@cyborgdeveloper.tech
 
 | Date<br>(dd/mm/yyyy) | Event            | Role  |
 |:--------------------:|------------------|:-----:|
-| 13-15/06/2019 | [The Developer's Conference - Belo Horizonte - Carreiras](http://www.thedevelopersconference.com.br/tdc/2019/belohorizonte/trilhas) | Area Coordinator |
-| 23-27/04/2019 | [The Developer's Conference - Florianópolis - Trilha Carreiras](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilha-carreiras-e-mentoria) | Coordinator |
-| 12-17/02/2019 | [Campus Party Brasil 12 - Palco Dev League (Academia Developers)](http://www.thedevelopersconference.com.br/tdc/2018/portoalegre/trilha-carreiras-e-mentoria) | Curator |
-| 05-08/12/2018 | [The Developer's Conference - Porto Alegre - Trilha Carreiras](http://www.thedevelopersconference.com.br/tdc/2018/portoalegre/trilha-carreiras-e-mentoria) | Coordinator |
-| 18/07/2018 | [The Developer's Conference - São Paulo - Trilha Containers](http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-containers) | Volunteer |
+| 16-20/07/2019 | [The Developer's Conference - São Paulo<br>Área Arquitetura, Linguagens e Carreira](http://www.thedevelopersconference.com.br/tdc/2019/saopaulo/) | Area Coordinator |
+| 13-15/06/2019 | [The Developer's Conference - Belo Horizonte<br>Área Carreiras](http://www.thedevelopersconference.com.br/tdc/2019/belohorizonte/trilhas) | Area Coordinator |
+| 23-27/04/2019 | [The Developer's Conference - Florianópolis<br>Trilha Carreiras](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilha-carreiras-e-mentoria) | Coordinator |
+| 12-17/02/2019 | [Campus Party Brasil 12<br>Palco Dev League (Academia Developers)](http://www.thedevelopersconference.com.br/tdc/2018/portoalegre/trilha-carreiras-e-mentoria) | Curator |
+| 05-08/12/2018 | [The Developer's Conference - Porto Alegre<br>Trilha Carreiras](http://www.thedevelopersconference.com.br/tdc/2018/portoalegre/trilha-carreiras-e-mentoria) | Coordinator |
+| 18/07/2018 | [The Developer's Conference - São Paulo<br>Trilha Containers](http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-containers) | Volunteer |
 
 # Initiatives
 
