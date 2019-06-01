@@ -25,6 +25,7 @@ Email: ask@cyborgdeveloper.tech
 [![logo](https://cdn3.iconfinder.com/data/icons/social-circle/512/647397-youtube-48.png)](https://www.youtube.com/c/rodrigomoutinho)
 [![logo](https://cdn3.iconfinder.com/data/icons/social-circle/512/social_3-48.png)](https://www.facebook.com/rcmoutinho)
 [![logo](https://cdn0.iconfinder.com/data/icons/social-circle/612/slideshare-48.png)](https://www.slideshare.net/rcmoutinho)
+[![logo](https://cdn4.iconfinder.com/data/icons/square-logo-buttons/512/about-me-48.png)](https://about.me/rcmoutinho)
 [<img src="https://asciinema.org/images/logo-red-949d10005bb389d1ae900a13b5ac53d7.svg" width="48"/>](https://asciinema.org/~rcmoutinho)
 
 ---
