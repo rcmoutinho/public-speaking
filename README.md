@@ -54,7 +54,7 @@ Email: ask@cyborgdeveloper.tech
 | 23-27/04/2019 | [The Developer's Conference - Florianópolis<br>Trilha Carreiras](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilha-carreiras-e-mentoria) | Coordinator |
 | 12-17/02/2019 | [Campus Party Brasil 12<br>Palco Dev League (Academia Developers)](http://www.thedevelopersconference.com.br/tdc/2018/portoalegre/trilha-carreiras-e-mentoria) | Curator |
 | 05-08/12/2018 | [The Developer's Conference - Porto Alegre<br>Trilha Carreiras](http://www.thedevelopersconference.com.br/tdc/2018/portoalegre/trilha-carreiras-e-mentoria) | Coordinator |
-| 18/07/2018 | [The Developer's Conference - São Paulo<br>Trilha Containers](http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-containers) | Volunteer |
+| 18/07/2017 | [The Developer's Conference - São Paulo<br>Trilha Containers](http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-containers) | Volunteer |
 
 # Initiatives
 
