@@ -18,7 +18,7 @@ O objetivo deste repositório é consolidar em um único lugar todas as minhas p
 Twitter: [@rcmoutinho](https://twitter.com/rcmoutinho)  
 Email: ask@cyborgdeveloper.tech
 
-# My Social Networks
+# My Social Networks (and other links)
 
 [![logo](https://cdn3.iconfinder.com/data/icons/social-circle/512/social_8-48.png)](http://www.twitter.com/rcmoutinho)
 [![logo](https://cdn3.iconfinder.com/data/icons/social-circle/512/social_7-48.png)](http://www.linkedin.com/in/rcmoutinho)
@@ -27,6 +27,7 @@ Email: ask@cyborgdeveloper.tech
 [![logo](https://cdn0.iconfinder.com/data/icons/social-circle/612/slideshare-48.png)](https://www.slideshare.net/rcmoutinho)
 [![logo](https://cdn4.iconfinder.com/data/icons/square-logo-buttons/512/about-me-48.png)](https://about.me/rcmoutinho)
 [<img src="https://asciinema.org/images/logo-red-949d10005bb389d1ae900a13b5ac53d7.svg" width="48"/>](https://asciinema.org/~rcmoutinho)
+[![logo](https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Amazon-48.png)](https://www.amazon.com/author/rcmoutinho)
 
 ---
 
