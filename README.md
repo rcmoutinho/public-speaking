@@ -31,7 +31,7 @@ Email: ask@cyborgdeveloper.tech
 
 ---
 
-[Talks](#talks) | [Volunteer](#volunteer) | [Initiatives](#initiatives) | [Videos](#videos) | [Open Source](#open-source) | [Certifications](#certifications) | [Awards](#awards) | [Mini Bio](#mini-bio)
+[Talks](#talks) | [Volunteer](#volunteer) | [Initiatives](#initiatives) | [Videos](#videos) | [Open Source](#open-source) | [Books](#books) | [Certifications](#certifications) | [Awards](#awards) | [Mini Bio](#mini-bio)
 
 # Talks
 
@@ -100,6 +100,14 @@ Email: ask@cyborgdeveloper.tech
 | [Cyborg Developer](https://github.com/cyborgdeveloper) | Creator | :us: |
 | [Jornada DevOps](https://github.com/jornada-devops) | Co-leader, Co-author | :brazil: |
 | [ToolsCloud](https://github.com/toolscloud) | Contributor | :us: |
+
+# Books
+
+| Name | Role | Language |
+|------|------|:--------:|
+| Jornada Devops [[Amazon](https://www.amazon.com.br/Jornada-Devops-Tecnologia-Software-Qualidade/dp/8574529273/)] [[Brasport](http://www.brasport.com.br/gerenciamento-de-projetos/metodos-ageis/jornada-devops/)] | Co-Author | :brazil: |
+| The Cyborg Developer Cookbook [[Download for FREE](http://cyborgdeveloper.tech)] | Author | :us: |
+
 
 # Certifications
 
