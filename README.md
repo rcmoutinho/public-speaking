@@ -99,6 +99,7 @@ Email: ask@cyborgdeveloper.tech
 |------|------|:--------:|
 | [Cyborg Developer](https://github.com/cyborgdeveloper) | Creator | :us: |
 | [Jornada DevOps](https://github.com/jornada-devops) | Co-leader, Co-author | :brazil: |
+| [Duke Certification](https://github.com/duke-certification) | Co-author | :brazil: |
 | [ToolsCloud](https://github.com/toolscloud) | Contributor | :us: |
 
 # Books
@@ -107,6 +108,7 @@ Email: ask@cyborgdeveloper.tech
 |------|------|:--------:|
 | Jornada Devops [[Amazon](https://www.amazon.com.br/Jornada-Devops-Tecnologia-Software-Qualidade/dp/8574529273/)] [[Brasport](http://www.brasport.com.br/gerenciamento-de-projetos/metodos-ageis/jornada-devops/)] | Co-Author | :brazil: |
 | The Cyborg Developer Cookbook [[Download for FREE](http://cyborgdeveloper.tech)] | Author | :us: |
+| Guia Open Source para Certificação:<br>Atualize sua certificação Java 6 para Java 8<br>[coming soon...] | Co-Author | :brazil: |
 
 
 # Certifications
