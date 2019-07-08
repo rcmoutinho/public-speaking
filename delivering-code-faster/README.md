@@ -202,10 +202,16 @@ Outro comando importante para entender o funcionamento do containers é o que mo
 docker container logs -f pg-test
 ```
 
-Por fim, para remover o container criado, execute o comando a seguir.
+Para remover o container criado, execute o comando a seguir.
 
 ```
 docker container rm -f pg-test
+```
+
+Por fim, o volume criado para este teste também pode ser removido.
+
+```
+docker volume rm pg-test
 ```
 
 ### Dockerfile com Banco de Dados Personalizado
