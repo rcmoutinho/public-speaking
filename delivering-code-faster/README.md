@@ -323,7 +323,7 @@ docker-compose stop pg-world
 Mas para remover o container, imagem, network e até mesmo o volume, é possível fazer tudo em apenas um comando. Neste caso não é possível referencia um serviço, limpando tudo configurado no compose. **CUIDADO NOVAMENTE!!** Esse comando remove todos os volumes associados aos serviços.
 
 ```
-docker-compose down -v -rmi local
+docker-compose down -v --rmi local
 ```
 
 _Nota: Para ir mais a fundo em todos os comandos disponívels execute `docker-compose -h` ou para um comando específico `docker-compose [COMMAND] -h`._
