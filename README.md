@@ -78,6 +78,7 @@ Email: ask@cyborgdeveloper.tech
 | Date<br>(mm/yyyy) | Title          | Language |
 |:-----------------:|----------------|:--------:|
 | 07/2019 | [Oracle Groundbreakers Live at TDC São Paulo](https://www.pscp.tv/w/1mnxevQWBArKX) | :brazil: |
+| 07/2019 | [Trabalhe fora do País: Dicas e Oportunidades](https://youtu.be/JthCZpMJOAs) | :us: |
 | 04/2019 | [Oracle Groundbreakers Live at TDC Floripa](https://www.pscp.tv/w/1BdGYApQmEvGX?t=6) | :brazil: |
 | 04/2019 | [Trabalhar fora do país: tudo que você queria saber](https://youtu.be/0hL2pqXdr3g) | :brazil: |
 | 12/2018 | [Oracle Developers LA](https://twitter.com/OracleDevsLA/status/1071449335659933696) | :brazil: |
