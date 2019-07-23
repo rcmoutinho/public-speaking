@@ -96,6 +96,7 @@ Email: ask@cyborgdeveloper.tech
 
 | Project | Repository | Contribution | Language |
 |---------|------------|--------------|:--------:|
+| Automated Release | [automated-release](https://github.com/rcmoutinho/automated-release) | Creator | :us: |
 | eBook with Asciidoctor | [ebook-with-asciidoctor](https://github.com/rcmoutinho/ebook-with-asciidoctor) | Creator | :us: |
 | Java to Html | [javatohtml](https://github.com/rcmoutinho/javatohtml) | Creator | :us: |
 | [Jenkins X](https://jenkins-x.io) | [jx](https://github.com/jenkins-x/jx) | Documentation | :us: |
