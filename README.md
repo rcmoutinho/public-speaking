@@ -58,6 +58,7 @@ Email: ask@cyborgdeveloper.tech
 
 | Date<br>(dd/mm/yyyy) | Event            | Role  |
 |:--------------------:|------------------|:-----:|
+| 10-12/10/2019 | [The Developer's Conference - Recife<br>Área Diversidade, Carreiras e Mentoria, Games, Mobile, Android](http://thedevelopersconference.com.br/tdc/2019/recife/) | Area Coordinator |
 | 16-20/07/2019 | [The Developer's Conference - São Paulo<br>Área Arquitetura, Linguagens e Carreira](http://www.thedevelopersconference.com.br/tdc/2019/saopaulo/) | Area Coordinator |
 | 13-15/06/2019 | [The Developer's Conference - Belo Horizonte<br>Área Carreiras](http://www.thedevelopersconference.com.br/tdc/2019/belohorizonte/trilhas) | Area Coordinator |
 | 23-27/04/2019 | [The Developer's Conference - Florianópolis<br>Trilha Carreiras](http://www.thedevelopersconference.com.br/tdc/2019/florianopolis/trilha-carreiras-e-mentoria) | Coordinator |
