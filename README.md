@@ -121,7 +121,7 @@ Email: ask@cyborgdeveloper.tech
 | Name | Role | Language |
 |------|------|:--------:|
 | Jornada Devops [[Amazon](https://www.amazon.com.br/Jornada-Devops-Tecnologia-Software-Qualidade/dp/8574529273/)] [[Brasport](http://www.brasport.com.br/gerenciamento-de-projetos/metodos-ageis/jornada-devops/)] | Co-Author | :brazil: |
-| The Cyborg Developer Cookbook [[Download for FREE](http://cyborgdeveloper.tech)] | Author | :us: |
+| The Cyborg Developer Cookbook: The Ultimate Guide<br>[[Download for FREE](http://cyborgdeveloper.tech)] | Author | :us: |
 | Guia Open Source para Certificação:<br>Atualize sua certificação Java 6 para Java 8<br>[[Baixe de GRAÇA](https://rinaldo.dev/java6para8)] | Co-Author | :brazil: |
 | Practical Guide to Certification:<br>Update your certification from Java 6 to Java 8<br>[[Download for FREE](https://github.com/duke-certification/java6-to-java8-en/releases)] | Co-Author | :us: |
 
