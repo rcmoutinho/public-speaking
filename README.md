@@ -108,6 +108,12 @@ Email: ask@cyborgdeveloper.tech
 | [Jenkins X](https://jenkins-x.io) | [jx-docs](https://github.com/jenkins-x/jx-docs) | Documentation | :us: |
 | [Docker Maven](https://hub.docker.com/_/maven) | [docker-maven](https://github.com/carlossg/docker-maven) | Documentation | :us: |
 
+## Basic Series
+
+| Project | Repository | Contribution | Language |
+|---------|------------|--------------|:--------:|
+| Basic Node.js API | [basic-nodejs-api](https://github.com/rcmoutinho/basic-nodejs-api) | Creator | :us: |
+
 ## Demos
 
 | Project | Repository |
