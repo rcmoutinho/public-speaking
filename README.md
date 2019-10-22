@@ -108,6 +108,14 @@ Email: ask@cyborgdeveloper.tech
 | [Jenkins X](https://jenkins-x.io) | [jx-docs](https://github.com/jenkins-x/jx-docs) | Documentation | :us: |
 | [Docker Maven](https://hub.docker.com/_/maven) | [docker-maven](https://github.com/carlossg/docker-maven) | Documentation | :us: |
 
+## Demos
+
+| Project | Repository |
+|---------|------------|
+| :us: Dramatically increase your database performance<br>:brazil: Aumente drasticamente a performance do seu banco de dados | [cte-example](https://github.com/rcmoutinho/public-speaking/tree/master/cte-example) |
+| :us: Delivering Code Faster **(TODO)**<br>:brazil: Entregando Código Mais Rápido | [delivering-code-faster](https://github.com/rcmoutinho/public-speaking/tree/master/delivering-code-faster) |
+| :us: Deploying a Java app in one click **(TODO)**<br>:brazil: Implantando um aplicativo Java em um clique | [java-deploy-one-click](https://github.com/rcmoutinho/public-speaking/tree/master/java-deploy-one-click) |
+
 ## GitHub Organization
 
 | Name | Role | Language |
