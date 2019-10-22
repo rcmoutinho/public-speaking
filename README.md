@@ -103,6 +103,7 @@ Email: ask@cyborgdeveloper.tech
 | Automated Release | [automated-release](https://github.com/rcmoutinho/automated-release) | Creator | :us: |
 | eBook with Asciidoctor | [ebook-with-asciidoctor](https://github.com/rcmoutinho/ebook-with-asciidoctor) | Creator | :us: |
 | Java to Html | [javatohtml](https://github.com/rcmoutinho/javatohtml) | Creator | :us: |
+| Travis CLI using Docker | [travis-cli](https://github.com/rcmoutinho/travis-cli) | Creator | :us: |
 | [Jenkins X](https://jenkins-x.io) | [jx](https://github.com/jenkins-x/jx) | Documentation | :us: |
 | [Jenkins X](https://jenkins-x.io) | [jx-docs](https://github.com/jenkins-x/jx-docs) | Documentation | :us: |
 
