@@ -112,6 +112,7 @@ Email: ask@cyborgdeveloper.tech
 
 | Project | Repository | Contribution | Language |
 |---------|------------|--------------|:--------:|
+| Basic Java Web Project | [basic-java-web](https://github.com/rcmoutinho/basic-java-web) | Creator | :us: |
 | Basic Node.js API | [basic-nodejs-api](https://github.com/rcmoutinho/basic-nodejs-api) | Creator | :us: |
 
 ## Demos
