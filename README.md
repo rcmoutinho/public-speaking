@@ -104,9 +104,8 @@ Email: ask@cyborgdeveloper.tech
 | eBook with Asciidoctor | [ebook-with-asciidoctor](https://github.com/rcmoutinho/ebook-with-asciidoctor) | Creator | :us: |
 | Java to Html | [javatohtml](https://github.com/rcmoutinho/javatohtml) | Creator | :us: |
 | Travis CLI using Docker | [travis-cli](https://github.com/rcmoutinho/travis-cli) | Creator | :us: |
-| [Jenkins X](https://jenkins-x.io) | [jx](https://github.com/jenkins-x/jx) | Documentation | :us: |
-| [Jenkins X](https://jenkins-x.io) | [jx-docs](https://github.com/jenkins-x/jx-docs) | Documentation | :us: |
-| [Docker Maven](https://hub.docker.com/_/maven) | [docker-maven](https://github.com/carlossg/docker-maven) | Documentation | :us: |
+| [Jenkins X](https://jenkins-x.io) | [jx](https://github.com/jenkins-x/jx), [jx-docs](https://github.com/jenkins-x/jx-docs) | Documentation | :us: |
+| [Maven](https://maven.apache.org) | [docker-maven](https://github.com/carlossg/docker-maven) | Documentation | :us: |
 
 ## Basic Series
 
