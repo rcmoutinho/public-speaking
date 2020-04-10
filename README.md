@@ -102,6 +102,7 @@ Email: ask@cyborgdeveloper.tech
 | Travis CLI using Docker | [travis-cli](https://github.com/rcmoutinho/travis-cli) | Creator | :us: |
 | [Jenkins X](https://jenkins-x.io) | [jx](https://github.com/jenkins-x/jx), [jx-docs](https://github.com/jenkins-x/jx-docs) | Documentation | :us: |
 | [Maven](https://maven.apache.org) | [docker-maven](https://github.com/carlossg/docker-maven) | Documentation | :us: |
+| [CDF](https://cd.foundation/) | [faq](https://github.com/cdfoundation/faq) | Documentation | :us: |
 
 ## Basic Series
 
