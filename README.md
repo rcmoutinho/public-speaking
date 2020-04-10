@@ -1,14 +1,10 @@
-# :us: Event Calendar, Initiatives and Activities
+# :us: Initiatives and Activities
 
-The objective of this repo is to consolidate in a single place all my participation at conferences, meetups, community activities and events in general.
+The objective of this repo is to consolidate in a single place all my participation at conferences, meetups, community activities and projects in general.
 
-*PS.: This is a great idea from a friend of mine, Elias Nogueira (I copied his idea [here](https://github.com/eliasnogueira/public-speaking))*
+# :brazil: Iniciativas e Atividades
 
-# :brazil: Calendário de eventos, iniciativas e atividades
-
-O objetivo deste repositório é consolidar em um único lugar todas as minhas participações em conferências, meetups, atividades em comunidades e eventos em geral.
-
-*PS.: Essa é uma grande ideia de um amigo meu, Elias Nogueira (eu copiei a ideia dele [aqui](https://github.com/eliasnogueira/public-speaking))*
+O objetivo deste repositório é consolidar em um único lugar todas as minhas participações em conferências, meetups, atividades em comunidades e projetos em geral.
 
 # Questions?
 
@@ -128,7 +124,7 @@ Email: ask@cyborgdeveloper.tech
 |------|------|:--------:|
 | [Cyborg Developer](https://github.com/cyborgdeveloper) | Creator | :us: |
 | [Jornada DevOps](https://github.com/jornada-devops) | Co-leader, Co-author | :brazil: |
-| [Duke Certification](https://github.com/duke-certification) | Co-author | :brazil: |
+| [Duke Certification](https://github.com/duke-certification) | Co-author | :brazil: :us: |
 | [ToolsCloud](https://github.com/toolscloud) | Contributor | :us: |
 
 # Books
