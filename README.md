@@ -135,6 +135,7 @@ Email: ask@cyborgdeveloper.tech
 | Jornada Devops [[Amazon](https://www.amazon.com.br/Jornada-Devops-Tecnologia-Software-Qualidade/dp/8574529273/)] [[Brasport](http://www.brasport.com.br/gerenciamento-de-projetos/metodos-ageis/jornada-devops/)] | Co-Author | :brazil: |
 | Jornada Ágil e Digital [[Amazon](https://www.amazon.com.br/Jornada-%C3%81gil-Digital-Antonio-Muniz/dp/8574529478)] [[Brasport](http://www.brasport.com.br/gerenciamento-de-projetos/metodos-ageis/jornada-agil-e-digital/)] | Contributor | :brazil: |
 | Jornada Java _(coming soon)_ | Co-Author | :brazil: |
+| Jornada Microsserviços _(coming soon)_ | Contributor | :brazil: |
 | The Cyborg Developer Cookbook: The Ultimate Guide<br>[[Download for FREE](http://cyborgdeveloper.tech)] | Author | :us: |
 | Guia Open Source para Certificação:<br>Atualize sua certificação Java 6 para Java 8<br>[[Baixe de GRAÇA](https://rinaldo.dev/java6para8)] | Co-Author | :brazil: |
 | Practical Guide to Certification:<br>Update your certification from Java 6 to Java 8<br>[[Download for FREE](https://github.com/duke-certification/java6-to-java8-en/releases)] | Co-Author | :us: |
