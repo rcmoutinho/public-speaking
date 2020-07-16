@@ -2,8 +2,6 @@
 
 The objective of this repo is to consolidate in a single place all my participation at conferences, meetups, community activities and projects in general.
 
-:brazil: :us: (:fr: :thinking:)
-
 # Social Media / Links
 
 [![logo](https://cdn3.iconfinder.com/data/icons/social-circle/512/social_8-48.png)](http://www.twitter.com/rcmoutinho)
