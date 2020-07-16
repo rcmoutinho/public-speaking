@@ -43,12 +43,13 @@ The objective of this repo is to consolidate in a single place all my participat
 | [Maven](https://maven.apache.org) | [docker-maven](https://github.com/carlossg/docker-maven) | Documentation | :us: |
 | [CDF](https://cd.foundation/) | [faq](https://github.com/cdfoundation/faq) | Documentation | :us: |
 
-## Basic Series
+## Projects
 
-| Project | Repository | Contribution | Language |
-|---------|------------|--------------|:--------:|
-| Basic Java Web Project | [basic-java-web](https://github.com/rcmoutinho/basic-java-web) | Creator | :us: |
-| Basic Node.js API | [basic-nodejs-api](https://github.com/rcmoutinho/basic-nodejs-api) | Creator | :us: |
+| Project | Repository | Language |
+|---------|------------|:--------:|
+| Basic Java Web Project<br>*Get started with Java and create a simple Web Project* | [basic-java-web](https://github.com/rcmoutinho/basic-java-web) | :us: |
+| Basic Node.js API<br>*Get started with Node.js and create a simple API* | [basic-nodejs-api](https://github.com/rcmoutinho/basic-nodejs-api) | :us: |
+| GitHub Explorer App<br>*Playing around with ReactJS using the GitHub API* | [github-explorer](https://github.com/rcmoutinho/github-explorer) | :us: |
 
 ## Demos
 
