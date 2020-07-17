@@ -48,6 +48,7 @@ The objective of this repo is to consolidate in a single place all my participat
 | Basic Java Web Project<br>*Get started with Java and create a simple Web Project* | [basic-java-web](https://github.com/rcmoutinho/basic-java-web) | :us: |
 | Basic Node.js API<br>*Get started with Node.js and create a simple API* | [basic-nodejs-api](https://github.com/rcmoutinho/basic-nodejs-api) | :us: |
 | GitHub Explorer App<br>*Playing around with ReactJS using the GitHub API* | [github-explorer](https://github.com/rcmoutinho/github-explorer) | :us: |
+| Jornada Microsserviços - DevOps<br>*Spring Boot project to demonstrate a CI/CD example for the book.* | [jornada-microsservicos-devops](https://github.com/rcmoutinho/jornada-microsservicos-devops) | :brazil: |
 
 ## Demos
 
