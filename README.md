@@ -21,7 +21,7 @@ The objective of this repo is to consolidate in a single place all my participat
 
 | Name | Role | Language |
 |------|------|:--------:|
-| Jornada Devops [[Amazon](https://www.amazon.com.br/Jornada-Devops-Tecnologia-Software-Qualidade/dp/8574529273/)] [[Brasport](http://www.brasport.com.br/gerenciamento-de-projetos/metodos-ageis/jornada-devops/)] | Co-Author | :brazil: |
+| Jornada Devops [[Amazon](https://www.amazon.com.br/Jornada-Devops-Tecnologia-Software-Qualidade/dp/8574529273/)] [[Brasport](http://www.brasport.com.br/gerenciamento-de-projetos/metodos-ageis/jornada-devops/)]<br>Jornada Devops 2&ordf; edição (best seller) [[Amazon](https://www.amazon.com.br/dp/6599062113)] [[Brasport](http://www.brasport.com.br/gerenciamento-de-projetos/metodos-ageis/jornada-devops-2a-edicao/)] | Co-Author | :brazil: |
 | Jornada Ágil e Digital [[Amazon](https://www.amazon.com.br/Jornada-%C3%81gil-Digital-Antonio-Muniz/dp/8574529478)] [[Brasport](http://www.brasport.com.br/gerenciamento-de-projetos/metodos-ageis/jornada-agil-e-digital/)] | Contributor | :brazil: |
 | Jornada Java _(coming soon)_ | Co-Author | :brazil: |
 | Jornada Microsserviços _(coming soon)_ | Contributor | :brazil: |
