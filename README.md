@@ -21,10 +21,11 @@ The objective of this repo is to consolidate in a single place all my participat
 
 | Name | Role | Language |
 |------|------|:--------:|
-| Jornada Devops [[Amazon](https://www.amazon.com.br/dp/8574529273/)] [[Brasport](http://www.brasport.com.br/gerenciamento-de-projetos/metodos-ageis/jornada-devops/)]<br>Jornada Devops 2&ordf; edição (best seller) [[Amazon](https://www.amazon.com.br/dp/6599062113)] [[Brasport](http://www.brasport.com.br/gerenciamento-de-projetos/metodos-ageis/jornada-devops-2a-edicao/)] | Co-Author | :brazil: |
+| Jornada Devops [[Amazon](https://www.amazon.com.br/dp/8574529273/)] [[Brasport](http://www.brasport.com.br/gerenciamento-de-projetos/metodos-ageis/jornada-devops/)]<br>Jornada Devops 2&ordf; edição _(best seller)_ [[Amazon](https://www.amazon.com.br/dp/6599062113)] [[Brasport](http://www.brasport.com.br/gerenciamento-de-projetos/metodos-ageis/jornada-devops-2a-edicao/)] | Co-Author | :brazil: |
 | Jornada Ágil e Digital [[Amazon](https://www.amazon.com.br/dp/8574529478)] [[Brasport](http://www.brasport.com.br/gerenciamento-de-projetos/metodos-ageis/jornada-agil-e-digital/)] | Contributor | :brazil: |
 | Jornada Java [[Amazon](https://www.amazon.com.br/dp/658843121X)] [[Brasport](http://www.brasport.com.br/informatica-e-tecnologia/java/jornada-java/)] | Co-Author | :brazil: |
 | Jornada Microsserviços _(coming soon)_ | Contributor | :brazil: |
+| Jornada Colaborativa _(coming soon)_ | Contributor | :brazil: |
 | The Cyborg Developer Cookbook: The Ultimate Guide<br>[[Download for FREE](http://cyborgdeveloper.tech)] | Author | :us: |
 | Guia Open Source para Certificação:<br>Atualize sua certificação Java 6 para Java 8<br>[[Baixe de GRAÇA](https://rinaldo.dev/java6para8)] | Co-Author | :brazil: |
 | Practical Guide to Certification:<br>Update your certification from Java 6 to Java 8<br>[[Download for FREE](https://github.com/duke-certification/java6-to-java8-en/releases)] | Co-Author | :us: |
