@@ -81,6 +81,7 @@ The objective of this repo is to consolidate in a single place all my participat
 
 | Date<br>dd/mm/yy     | Event          | Slide Deck  | Demo | Lang.    |
 |:--------------------:|----------------|-------------|:----:|:--------:|
+| 01/06/21 | [Journées Québec Tech](https://talentmontreal.com/en/events/jqtech-2021) | [Trabalhar no Exterior - Amazing Jobs, Unique Opportunities, Lifetime Experiences](https://www.youtube.com/watch?v=Xi_3eQXyAls) |- | :us: |
 | 23/03/21 | [TDC Innovation](https://thedevconf.com/tdc/2021/innovation/) | [Trabalhando na indústria de jogos em Montreal: Game On!](https://promo.thedevelopersconference.com.br/tdcinnovation-quebec-talent) |- | :brazil: |
 | 20/03/21 | [Summit Jornada Colaborativa](https://summitonline2.jornadacolaborativa.com.br/) | Painel: Após 25 anos, o Java ainda é uma boa opção para carreira? |- | :brazil: |
 | 16/08/19 | [OC1 San Francisco](https://events.rainfocus.com/widget/oracle/oow19/catalogcodeone19?search=dev6000) | [Every Company Is... an Automation Company?](https://static.rainfocus.com/oracle/oow19/sess/15586521933810010jTf/PF/2019%20-%20CodeOne%20SF%20-%20Every%20Company%20Is...%20an%20Automation%20Company_1569197142246001Swbu.pdf) | - | :us: |
