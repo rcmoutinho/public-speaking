@@ -82,6 +82,7 @@ The objective of this repo is to consolidate in a single place all my participat
 
 | Date<br>dd/mm/yy     | Event          | Slide Deck  | Demo | Lang.    |
 |:--------------------:|----------------|-------------|:----:|:--------:|
+| 17/03/22 | [DIO](https://www.dio.me/) | [Lançamento Québec para Devs](https://www.youtube.com/watch?v=IcZ68npiUSY) |- | :brazil: |
 | 11/03/22 | [Residência em TIC do Serratec](http://serratec.org/residencia/) | [Sua história importa: do zero ao sucesso na carreira de TI!](https://youtu.be/8ZPoULEcNSo?t=4000) |- | :brazil: |
 | 09/12/21 | [SiJOGA - Fatec Carapicuiba](http://bit.ly/youtube-sijoga) | [Case de Sucesso de um Profissional em Games](https://www.youtube.com/watch?v=eSrrxTOWiZI) |- | :brazil: |
 | 01/06/21 | [Journées Québec Tech](https://talentmontreal.com/en/events/jqtech-2021) | [Trabalhar no Exterior - Amazing Jobs, Unique Opportunities, Lifetime Experiences](https://www.youtube.com/watch?v=Xi_3eQXyAls) |- | :us: |
