@@ -15,7 +15,7 @@ The objective of this repo is to consolidate in a single place all my participat
 
 ---
 
-[Books](#books) | [Open Source](#open-source) | [Initiatives](#initiatives) | [Talks](#talks) | [Volunteer](#volunteer) | [Videos](#videos) | [Certifications](#certifications) | [Awards](#awards) | [Mini Bio](#mini-bio)
+[Books](#books) | [Open Source](#open-source) | [Initiatives](#initiatives) | [Talks](#talks) | [Volunteer](#volunteer) | [Videos](#videos) | [Certifications](#certifications) | [Awards](#awards) | [Games](#games) | [Mini Bio](#mini-bio)
 
 # Books
 
@@ -148,6 +148,16 @@ The objective of this repo is to consolidate in a single place all my participat
 | Date | Award | Event |
 |:----:|-------|-------|
 | 2019 | [TDC Rockstar](http://www.thedevelopersconference.com.br/rockstars) | [The Developer's Conference](http://www.thedevelopersconference.com.br) |
+
+# Games
+
+| Company | Game | Role |
+|-------|-------|------|
+| [Behaviour Interactive, Inc.](https://www.mobygames.com/company/1916/behaviour-interactive-inc/) **[ [We are hiring!](https://jobs.lever.co/bhvr?lever-via=iz96-jiNc9) ]** | _Coming soon..._ | BuildOps |
+| [Behaviour Interactive, Inc.](https://www.mobygames.com/company/1916/behaviour-interactive-inc/) | [Meet Your Maker](https://www.mobygames.com/game/201351/meet-your-maker/) | BuildOps |
+| [Onoma / Square Enix Montreal](https://www.mobygames.com/company/21263/onoma/) | [Arena Battle Champions](https://www.mobygames.com/game/195662/arena-battle-champions/) | Support Developer / Build Master |
+| [Onoma / Square Enix Montreal](https://www.mobygames.com/company/21263/onoma/) | [Hitman: Sniper - The Shadows](https://www.mobygames.com/game/192312/hitman-sniper-the-shadows/) | Support Developer / Build Master |
+| [Onoma / Square Enix Montreal](https://www.mobygames.com/company/21263/onoma/) | [Space Invaders: Hidden Heroes](https://www.mobygames.com/game/195666/space-invaders-hidden-heroes/) | Support Developer / Build Master |
 
 # Mini Bio
 
