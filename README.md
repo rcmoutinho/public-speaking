@@ -32,32 +32,40 @@ The objective of this repo is to consolidate in a single place all my participat
 
 # Open Source
 
-| Project | Repository | Contribution | Language |
-|---------|------------|--------------|:--------:|
-| Automated Release | [automated-release](https://github.com/rcmoutinho/automated-release) | Creator | :us: |
-| eBook with Asciidoctor | [ebook-with-asciidoctor](https://github.com/rcmoutinho/ebook-with-asciidoctor) | Creator | :us: |
-| Java to Html | [javatohtml](https://github.com/rcmoutinho/javatohtml) | Creator | :us: |
-| Travis CLI using Docker | [travis-cli](https://github.com/rcmoutinho/travis-cli) | Creator | :us: |
-| [Jenkins X](https://jenkins-x.io) | [jx](https://github.com/jenkins-x/jx), [jx-docs](https://github.com/jenkins-x/jx-docs) | Documentation | :us: |
-| [Maven](https://maven.apache.org) | [docker-maven](https://github.com/carlossg/docker-maven) | Documentation | :us: |
-| [CDF](https://cd.foundation/) | [faq](https://github.com/cdfoundation/faq) | Documentation | :us: |
-
 ## Projects
 
-| Project | Repository | Language |
-|---------|------------|:--------:|
-| Basic Java Web Project<br>*Get started with Java and create a simple Web Project* | [basic-java-web](https://github.com/rcmoutinho/basic-java-web) | :us: |
-| Basic Node.js API<br>*Get started with Node.js and create a simple API* | [basic-nodejs-api](https://github.com/rcmoutinho/basic-nodejs-api) | :us: |
-| GitHub Explorer App<br>*Playing around with ReactJS using the GitHub API* | [github-explorer](https://github.com/rcmoutinho/github-explorer) | :us: |
-| Jornada Microsserviços - DevOps<br>*Spring Boot project to demonstrate a CI/CD example for the book.* | [jornada-microsservicos-devops](https://github.com/rcmoutinho/jornada-microsservicos-devops) | :brazil: |
+| Project | Repository | Language | Year |
+|---------|------------|:--------:|:----:|
+| Salt Local Development<br>*Automate your computer tools and configurations using Saltstack* | [salt-local-dev](https://github.com/rcmoutinho/salt-local-dev) | :us: | **_Active_** |
+| Automated Release<br>*Put your version control in autopilot and create good looking releases.* | [automated-release](https://github.com/rcmoutinho/automated-release) | :us: | 2020 |
+| eBook with Asciidoctor<br>*Free and Open Source code to automate your ebook!<br>Get your .pdf, .epub, and .mobi in seconds running a single command!* | [ebook-with-asciidoctor](https://github.com/rcmoutinho/ebook-with-asciidoctor) | :us: | 2019 |
+| Java to Html<br>*Write JAVA code and get HTML* | [javatohtml](https://github.com/rcmoutinho/javatohtml) | :us: | 2017 |
+
+## Smaller Projects
+
+| Project | Repository | Language | Year |
+|---------|------------|:--------:|:----:|
+| Jornada Microsserviços - DevOps<br>*Spring Boot project to demonstrate a CI/CD example for the book.* | [jornada-microsservicos-devops](https://github.com/rcmoutinho/jornada-microsservicos-devops) | :brazil: | 2020 |
+| GitHub Explorer App<br>*Playing around with ReactJS using the GitHub API* | [github-explorer](https://github.com/rcmoutinho/github-explorer) | :us: | 2020 |
+| Basic Node.js API<br>*Get started with Node.js and create a simple API* | [basic-nodejs-api](https://github.com/rcmoutinho/basic-nodejs-api) | :us: | 2019 |
+| Travis CLI using Docker | [travis-cli](https://github.com/rcmoutinho/travis-cli) | :us: | 2019 |
+| Basic Java Web Project<br>*Get started with Java and create a simple Web Project* | [basic-java-web](https://github.com/rcmoutinho/basic-java-web) | :us: | 2019 |
 
 ## Demos
 
 | Project | Repository |
 |---------|------------|
 | :us: Dramatically increase your database performance<br>:brazil: Aumente drasticamente a performance do seu banco de dados | [cte-example](https://github.com/rcmoutinho/public-speaking/tree/master/cte-example) |
-| :us: Delivering Code Faster **(TODO)**<br>:brazil: Entregando Código Mais Rápido | [delivering-code-faster](https://github.com/rcmoutinho/public-speaking/tree/master/delivering-code-faster) |
-| :us: Deploying a Java app in one click **(TODO)**<br>:brazil: Implantando um aplicativo Java em um clique | [java-deploy-one-click](https://github.com/rcmoutinho/public-speaking/tree/master/java-deploy-one-click) |
+| :us: Delivering Code Faster **_(TODO)_**<br>:brazil: Entregando Código Mais Rápido | [delivering-code-faster](https://github.com/rcmoutinho/public-speaking/tree/master/delivering-code-faster) |
+| :us: Deploying a Java app in one click **_(TODO)_**<br>:brazil: Implantando um aplicativo Java em um clique | [java-deploy-one-click](https://github.com/rcmoutinho/public-speaking/tree/master/java-deploy-one-click) |
+
+## Contributions
+
+| Project | Repository | Contribution | Language |
+|---------|------------|--------------|:--------:|
+| [Jenkins X](https://jenkins-x.io) | [jx](https://github.com/jenkins-x/jx), [jx-docs](https://github.com/jenkins-x/jx-docs) | Documentation | :us: |
+| [Maven](https://maven.apache.org) | [docker-maven](https://github.com/carlossg/docker-maven) | Documentation | :us: |
+| [CDF](https://cd.foundation/) | [faq](https://github.com/cdfoundation/faq) | Documentation | :us: |
 
 ## GitHub Organization
 
