@@ -162,6 +162,8 @@ The objective of this repo is to consolidate in a single place all my participat
 | Company | Game | Role |
 |-------|-------|------|
 | [Behaviour Interactive, Inc.](https://www.mobygames.com/company/1916/behaviour-interactive-inc/) **[ [We are hiring!](https://jobs.lever.co/bhvr?lever-via=iz96-jiNc9) ]** | _Coming soon..._ | BuildOps |
+| [Behaviour Interactive, Inc.](https://www.mobygames.com/company/1916/behaviour-interactive-inc/) | [The Casting of Frank Stone](https://www.mobygames.com/game/230498/the-casting-of-frank-stone/) | BuildOps |
+| [Behaviour Interactive, Inc.](https://www.mobygames.com/company/1916/behaviour-interactive-inc/) | [Islands of Insight](https://www.mobygames.com/game/217558/islands-of-insight/) | BuildOps |
 | [Behaviour Interactive, Inc.](https://www.mobygames.com/company/1916/behaviour-interactive-inc/) | [Meet Your Maker](https://www.mobygames.com/game/201351/meet-your-maker/) | BuildOps |
 | [Onoma / Square Enix Montreal](https://www.mobygames.com/company/21263/onoma/) | [Arena Battle Champions](https://www.mobygames.com/game/195662/arena-battle-champions/) | Support Developer / Build Master |
 | [Onoma / Square Enix Montreal](https://www.mobygames.com/company/21263/onoma/) | [Hitman: Sniper - The Shadows](https://www.mobygames.com/game/192312/hitman-sniper-the-shadows/) | Support Developer / Build Master |
